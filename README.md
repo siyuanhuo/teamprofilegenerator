@@ -22,7 +22,7 @@ npm install inquirer
 ## Usage
 
 ```
-node index.js
+node app.js
 ```
 
 ## Demo
