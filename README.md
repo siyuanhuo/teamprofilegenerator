@@ -10,7 +10,9 @@ SO THAT I have quick access to their emails and GitHub profiles
 ## Table of Contents
 
 *[Installation](#installation)
+
 *[Usage](#usage)
+
 *[Demo](#demo)
 
 ## Installation
