@@ -9,11 +9,11 @@ SO THAT I have quick access to their emails and GitHub profiles
 
 ## Table of Contents
 
-*[Installation](#installation)
+* [Installation](#installation)
 
-*[Usage](#usage)
+* [Usage](#usage)
 
-*[Demo](#demo)
+* [Demo](#demo)
 
 ## Installation
 
