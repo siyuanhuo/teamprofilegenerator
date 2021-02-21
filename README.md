@@ -24,6 +24,14 @@ npm install
 node app.js
 ```
 
+## Test
+
+```
+npm run test
+```
+
+[Test Video](https://drive.google.com/file/d/1ONvhUv6ovMShn2qk5rJOBpDDg8KoXLS3/view)
+
 ## Demo
 
 [Demo Video](https://drive.google.com/file/d/1lWo_oFURW3nmUbzgSSwwdscoJOYB2Nn0/view)
