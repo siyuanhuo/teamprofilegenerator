@@ -85,8 +85,10 @@ async function main() {
   if(!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR)
   fs.writeFileSync(outputPath, teamHtml, (err) => {
     if (err) throw err
-    console.log('The file has been saved as ./output/team.html')
+    else console.log('The file has been saved as ./output/team.html')
   })
+
+
 }
 
 main()
