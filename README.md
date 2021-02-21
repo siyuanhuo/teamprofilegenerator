@@ -27,4 +27,4 @@ node app.js
 
 ## Demo
 
-[Demo Vedio](#https://drive.google.com/file/d/1lWo_oFURW3nmUbzgSSwwdscoJOYB2Nn0/view)
+[Demo Video](https://drive.google.com/file/d/1lWo_oFURW3nmUbzgSSwwdscoJOYB2Nn0/view)
